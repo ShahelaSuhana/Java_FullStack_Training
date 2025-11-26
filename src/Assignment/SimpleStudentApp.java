@@ -14,7 +14,6 @@ public class SimpleStudentApp {
 
         System.out.print("Enter your height in meters: ");
         double height = sc.nextDouble();
-        height=height/100;
 
         System.out.print("Enter your weight in kilograms: ");
         float weight = sc.nextFloat();
